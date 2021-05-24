@@ -6,13 +6,25 @@ furthermore i'm contributing to the social startup projects of [Machbarschaft](h
 
 most times, i'm working with ...
 <br/>
-... React Native, Angular, React, Native Script, HTML, SCSS and other stuff in the frontend
+... React Native <img alt="React Native" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />, 
+Angular <img alt="Angular" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />, 
+React <img alt="React" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />, 
+Native Script <img alt="Native Script" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nativescript.svg" />,
+HTML, 
+SCSS and other stuff in the frontend
 <br/>
-... Node.js, Nest.js, Kotlin, Java, REST, GraphQL in the backend
+... Node.js <img alt="Node.js" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />, 
+Nest.js <img alt="Nest.js" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nestjs.svg" />, 
+Kotlin <img alt="Nest.js" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />, 
+Java <img alt="Nest.js" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />, 
+REST, 
+GraphQL <img alt="Nest.js" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" /> in the backend
 <br/>
 ... and storing data in different relational and NoSQL databases
 <br/>
-... several development environments, like VS Code or IntelliJ
+... several development environments, like 
+VS Code <img alt="Nest.js" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" /> or 
+IntelliJ <img alt="Nest.js" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" />
 
 besides programming ...
 <br/>
