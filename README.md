@@ -29,16 +29,9 @@ feel free to get in touch with me
 [<img align="left" alt="Alexander Hodes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Alexander Hodes | Instagram" width="22px" marginLeft="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Alexander Hodes | Xing" width="22px" marginLeft="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
-
-
-[comment]: <> (<a href="https://github.com/alexanderhodes">)
-
-[comment]: <> (  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexanderhodes&theme=buefy&show_icons=true" />)
-
-[comment]: <> (  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderhodes&theme=buefy&layout=compact" />)
-
-[comment]: <> (</a>)
+[<img align="left" alt="Alexander Hodes | Spotify" width="22px" marginLeft="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 
 [instagram]: https://instagram.com/alexander_hodes
 [linkedin]: https://www.linkedin.com/in/alexander-hodes/
 [xing]: https://www.xing.com/profile/Alexander_Hodes/cv
+[spotify]: https://open.spotify.com/user/6xrfgukqp9abkswomkdj8gk6w
