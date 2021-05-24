@@ -1,8 +1,12 @@
 # hei there 🙂
 
-i'm alex, working as a software engineer 🧑‍💻. currently i'm working at [B42](https://www.b-42.com) (develop professional training and nutrition programs for athletes) and [bill.less](https://billless.app) (digitize receipts) as a full stack developer. 
+i'm alex, working as a software engineer 🧑‍💻. currently i'm working at
+[B42](https://www.b-42.com) <img alt="b42" width="18px" src="https://www.b-42.com/_nuxt/img/B42_Logo_White.eaf26b0.svg" /> (develop professional training and nutrition programs for athletes) and 
+[bill.less](https://billless.app) <img alt="billless" width="18px" src="https://billless.app/assets/img/newLogo/logo.png" /> (digitize receipts) as a full stack developer. 
 
-furthermore i'm contributing to the social startup projects of [Machbarschaft](https://machbarschaft.jetzt) (developing solutions for connecting the digital and analogue world) and [Legmon](https://legmon.com) (supporting social advancement).
+furthermore i'm contributing to the social startup projects of 
+[Machbarschaft](https://machbarschaft.jetzt) <img alt="Machbarschaft" width="18px" src="https://www.machbarschaft.jetzt/wp-content/uploads/2021/04/LogoMBS.jpg" /> (developing solutions for connecting the digital and analogue world) 
+and [Legmon](https://legmon.com) <img alt="Legmon" width="18px" src="https://legmon.com/wp-content/uploads//2019/12/legmonKranz.svg" /> (supporting social advancement).
 
 most times, i'm working with ...
 <br/>
@@ -15,16 +19,16 @@ SCSS and other stuff in the frontend
 <br/>
 ... Node.js <img alt="Node.js" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />, 
 Nest.js <img alt="Nest.js" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nestjs.svg" />, 
-Kotlin <img alt="Nest.js" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />, 
-Java <img alt="Nest.js" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />, 
+Kotlin <img alt="Kotlin" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />, 
+Java <img alt="Java" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />, 
 REST, 
-GraphQL <img alt="Nest.js" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" /> in the backend
+GraphQL <img alt="GraphQL" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" /> in the backend
 <br/>
 ... and storing data in different relational and NoSQL databases
 <br/>
 ... several development environments, like 
-VS Code <img alt="Nest.js" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" /> or 
-IntelliJ <img alt="Nest.js" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" />
+VS Code <img alt="VS Code" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" /> or 
+IntelliJ <img alt="IntelliJ" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" />
 
 besides programming ...
 <br/>
