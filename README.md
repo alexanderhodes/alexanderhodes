@@ -1,8 +1,7 @@
 # hei there 🙂
 
 i'm alex, working as a software engineer 🧑‍💻. currently i'm working at
-[B42](https://www.b-42.com) <img alt="b42" width="18px" src="https://www.b-42.com/_nuxt/img/B42_Logo_White.eaf26b0.svg" /> (develop professional training and nutrition programs for athletes) and 
-[bill.less](https://billless.app) <img alt="billless" width="18px" src="https://billless.app/assets/img/newLogo/logo.png" /> (digitize receipts) as a full stack developer. 
+[B42](https://www.b-42.com) <img alt="b42" width="18px" src="https://www.b-42.com/_nuxt/img/B42_Logo_White.eaf26b0.svg" /> (develop professional training and nutrition programs for athletes) as a full stack developer. 
 
 furthermore i'm contributing to the social startup projects of 
 [Machbarschaft](https://machbarschaft.jetzt) <img alt="Machbarschaft" width="18px" src="https://www.machbarschaft.jetzt/wp-content/uploads/2021/04/LogoMBS.jpg" /> (developing solutions for connecting the digital and analogue world) 
