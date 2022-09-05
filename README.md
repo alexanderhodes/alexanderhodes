@@ -46,4 +46,4 @@ feel free to get in touch with me
 
 [linkedin]: https://www.linkedin.com/in/alexander-hodes/
 [xing]: https://www.xing.com/profile/Alexander_Hodes/cv
-[web]: https://alexanderhodes.github.io
+[web]: https://alexanderhodes.de
