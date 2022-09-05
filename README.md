@@ -1,7 +1,7 @@
 # hei there 🙂
 
 i'm alex, working as a software engineer 🧑‍💻. currently i'm working at
-[B42](https://www.b-42.com) <img alt="b42" width="18px" src="https://www.b-42.com/_nuxt/img/B42_Logo_White.eaf26b0.svg" /> (develop professional training and nutrition programs for athletes) as a full stack developer. 
+[B42](https://www.b-42.com) <img alt="b42" width="18px" src="https://www.b-42.com/images/b-42-logo-black.svg?new=1" /> (develop professional training and nutrition programs for athletes) as a full stack developer. 
 
 furthermore i'm contributing to the social startup projects of 
 [Machbarschaft](https://machbarschaft.jetzt) <img alt="Machbarschaft" width="18px" src="https://www.machbarschaft.jetzt/wp-content/uploads/2021/04/LogoMBS.jpg" /> (developing solutions for connecting the digital and analogue world) 
@@ -11,8 +11,7 @@ most times, i'm working with ...
 <br/>
 ... React Native <img alt="React Native" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />, 
 Angular <img alt="Angular" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />, 
-React <img alt="React" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />, 
-Native Script <img alt="Native Script" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nativescript.svg" />,
+React <img alt="React" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />,
 HTML, 
 SCSS and other stuff in the frontend
 <br/>
@@ -42,11 +41,7 @@ besides programming ...
 feel free to get in touch with me 
 
 [<img align="left" alt="Alexander Hodes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Alexander Hodes | Instagram" width="22px" marginLeft="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Alexander Hodes | Xing" width="22px" marginLeft="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
-[<img align="left" alt="Alexander Hodes | Spotify" width="22px" marginLeft="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 
-[instagram]: https://instagram.com/alexander_hodes
 [linkedin]: https://www.linkedin.com/in/alexander-hodes/
 [xing]: https://www.xing.com/profile/Alexander_Hodes/cv
-[spotify]: https://open.spotify.com/user/6xrfgukqp9abkswomkdj8gk6w
