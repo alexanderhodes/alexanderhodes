@@ -40,8 +40,10 @@ besides programming ...
 
 feel free to get in touch with me 
 
-[<img align="left" alt="Alexander Hodes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Alexander Hodes | Xing" width="22px" marginLeft="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
+[<img align="left" alt="LinkedIn" width="22px" marginRight="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Xing" width="22px" marginRight="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
+[<img align="left" alt="web" width="22px" marginRight="12px" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/globe.svg" />][web]
 
 [linkedin]: https://www.linkedin.com/in/alexander-hodes/
 [xing]: https://www.xing.com/profile/Alexander_Hodes/cv
+[web]: https://alexanderhodes.github.io
