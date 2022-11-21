@@ -7,8 +7,6 @@ furthermore i'm contributing to the social startup projects of
 [Machbarschaft](https://machbarschaft.jetzt) <img alt="Machbarschaft" width="18px" src="https://www.machbarschaft.jetzt/wp-content/uploads/2021/04/LogoMBS.jpg" /> (developing solutions for connecting the digital and analogue world) 
 and [Legmon](https://legmon.com) <img alt="Legmon" width="18px" src="https://legmon.com/wp-content/uploads//2019/12/legmonKranz.svg" /> (supporting social advancement).
 
-feel free to get in touch with me 
-
 [<img align="left" alt="LinkedIn" width="22px" marginRight="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Xing" width="22px" marginRight="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
 [<img align="left" alt="web" width="22px" marginRight="12px" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/globe.svg" />][web]
