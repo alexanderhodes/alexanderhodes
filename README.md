@@ -8,11 +8,11 @@ furthermore i'm contributing to the social startup projects of
 and [Legmon](https://legmon.com) <img alt="Legmon" width="18px" src="https://legmon.com/wp-content/uploads//2019/12/legmonKranz.svg" /> (supporting social advancement).
 
 [<img align="left" alt="LinkedIn" width="22px" marginRight="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Xing" width="22px" marginRight="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
 [<img align="left" alt="web" width="22px" marginRight="12px" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/globe.svg" />][web]
 [<img align="left" alt="dev.to" width="22px" marginRight="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev.to]
+[<img align="left" alt="gitlab" width="22px" marginRight="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gitlab.svg" />][gitlab]
 
 [linkedin]: https://www.linkedin.com/in/alexander-hodes/
-[xing]: https://www.xing.com/profile/Alexander_Hodes/cv
 [web]: https://alexanderhodes.de
 [dev.to]: https://dev.to/alexanderhodes
+[gitlab]: https://gitlab.com/alexander.hodes
